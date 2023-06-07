@@ -10,7 +10,7 @@ I'm a pre-final year Engineering student majoring in Computer Science. With each
 ## 🙋 About Me:
 <!-- - I’m currently working on **[My Portfolio Website](https://github.com/thetarandhiman/PortfolioSite)**-->
 - 💻 Currently working on **ReactJS**.
-- 📝 Currently learning: **Core, Advanced Java & User Experience Design Essentials** 
+- 📝 Currently learning: **Core, Advanced Java & Spring Boot with Microservices** 
 - 👩‍💻 Increasing my expertise in **Full-Stack Web Development**
 
 
